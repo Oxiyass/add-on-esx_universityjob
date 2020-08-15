@@ -3,3 +3,4 @@ ensure schoolv2
 ensure teleportschool
 ensure 5008
 ensure espace3
+ensure Oxiyass_universitygarage
